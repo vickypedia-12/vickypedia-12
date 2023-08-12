@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://vickypedia-12.github.io/port-o-folio/](https://vickypedia-12.github.io/port-o-folio/)
+- 👨‍💻 All of my projects are available at [Port-o-folio](https://vickypedia-12.github.io/port-o-folio/)
 
 - 📫 How to reach me **vikasmourya54321@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k-qlABY6lfJpCkDrojjc2yzNlwIRW_6c/view?usp=drive_link](https://drive.google.com/file/d/1k-qlABY6lfJpCkDrojjc2yzNlwIRW_6c/view?usp=drive_link)
+- 📄 Know about my experiences at [My Resume](https://drive.google.com/file/d/1k-qlABY6lfJpCkDrojjc2yzNlwIRW_6c/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
