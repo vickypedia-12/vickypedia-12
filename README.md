@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Vikas Mourya</h1> <img  align='right' src="./210046063.jpg" />
+<h1 align="center">Hi 👋, This is Vikas Mourya</h1>
 <h3 align="center">A relentless explorer of Algorithms, making functions do my work for me, captivated by logics and creating solutions to problems, hoping to create a better byte-sized world!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickypedia-12&label=Profile%20views&color=0e75b6&style=flat" alt="vickypedia-12" /> </p>
