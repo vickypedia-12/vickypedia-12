@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, This is Vikas Mourya</h1>
+<h1 align="center">Hi 👋, This is Vikas Mourya</h1> 
+
+<img src="https://github.com/vickypedia-12/vickypedia-12/assets/111296997/ff3ae7a0-e347-4676-8b63-90c87a803450" align="right" />
+
 <h3 align="center">A relentless explorer of Algorithms, making functions do my work for me, captivated by logics and creating solutions to problems, hoping to create a better byte-sized world!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickypedia-12&label=Profile%20views&color=0e75b6&style=flat" alt="vickypedia-12" /> </p>
@@ -15,8 +18,9 @@
 
 - ⚡ Fun fact **I Like Reading things!**
 <br>
-<img align='left' src="./coding(1).gif" width='100%'/>
-<br>
+
+<br>![coding (1)](https://github.com/vickypedia-12/vickypedia-12/assets/111296997/6a39de9b-7841-4a18-a332-15dbf4f5f018)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vikas-mourya-0a5875228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikas-mourya-0a5875228" height="30" width="40" /></a>
