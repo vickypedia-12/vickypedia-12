@@ -14,7 +14,7 @@
 
 - 📫 How to reach me [Mail](mailto:vikasmourya54321@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1k-qlABY6lfJpCkDrojjc2yzNlwIRW_6c/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1C8qQlRRHMzcTHk2hkj6PPjC7aTX6s77z/view?usp=sharing)
 
 - ⚡ Fun fact **I Like Reading things!**
 <br>
