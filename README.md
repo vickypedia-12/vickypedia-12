@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [port-o-folio](https://vickypedia-12.github.io/port-o-folio/)
-
 - 💬 Ask me about **C,C++,HTML,CSS**
 
 - 📫 How to reach me [Mail](mailto:vikasmourya54321@gmail.com)
