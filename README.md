@@ -2,7 +2,7 @@
 
 <img src="https://github.com/vickypedia-12/vickypedia-12/assets/111296997/ff3ae7a0-e347-4676-8b63-90c87a803450" align="right" />
 
-<h3 align="center">A relentless explorer of Algorithms, making functions do my work for me, captivated by logics and creating solutions to problems, hoping to create a better byte-sized world!!</h3>
+<h3 align="center">I'm an AI Backend Developer who's worked on real-world RAG systems, MultiAgent architectures, and automated data pipelines. I love solving problems through backend optimization and have been fortunate to lead projects that won hackathons, powered legal assistants, and supported enterprise-scale applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickypedia-12&label=Profile%20views&color=0e75b6&style=flat" alt="vickypedia-12" /> </p>
 
